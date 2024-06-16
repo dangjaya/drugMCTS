@@ -3,6 +3,7 @@ import torch
 import torch.nn.functional as F
 from MCTS import *
 from Models import *
+from helper import *
 
 
 def k_best_outputs(outputs, out, log_scores, i, k):

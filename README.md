@@ -1,6 +1,6 @@
-# Drug-MCTS
+# drug.AI
 
-This is the implementation of Drug Design Generative Model called Drug-MCTS paper published on mdpi.com/XXXX
+This is the implementation of De-Novo Drug Design Generative Model called drug.AI paper published on https://doi.org/10.3390/ph17020161
 
 In order to run the codebase, you need to run pre-processing steps as follow :
 
